@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    align-self: center;
+}
+
+.dropdown:hover .dropdown-menu{
+  position: absolute;
+  top: 0;
+  left: 100%;
+  display: block;
+  margin-top: 0.125em;
+  margin-left: 0.125em;
+}
+
